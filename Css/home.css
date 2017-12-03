@@ -1,0 +1,28 @@
+
+#home{
+	
+	
+	
+	margin:auto;
+	text-align:center;
+}
+#pro_pic{
+	background-color:;
+	
+	margin:10px auto;
+	
+	box-sizing: border-box;
+	border-radius: 5px;
+}
+#about_me{
+	background-color: white;
+	width:90%;
+	margin:10px auto;
+	
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+img{
+	width:80%;
+	border-radius: 10px;
+}
